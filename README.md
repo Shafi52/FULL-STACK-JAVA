@@ -50,7 +50,7 @@ Each day includes practical assignments and mini-projects. Click below to explor
 ## 🧑‍💻 Author
 
 **Shaik Shafi**  
-[GitHub Profile](https://github.com/yourusername)  
+ 
 [LinkedIn (Optional)](https://linkedin.com/in/yourprofile)
 
 ---
