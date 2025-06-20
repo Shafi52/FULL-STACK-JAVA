@@ -46,15 +46,6 @@ Each day includes practical assignments and mini-projects. Click below to explor
 - GitHub workflow and collaboration
 
 ---
-
-## 🧑‍💻 Author
-
-**Shaik Shafi**  
- 
-[LinkedIn (Optional)](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🙌 Acknowledgements
 
 - Special thanks to our trainers and coordinators.
